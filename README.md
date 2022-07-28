@@ -1,14 +1,14 @@
 <h1 align="center"> 🅃🄷🄰🄽🄺🅂 🄵🄾🅁 🅅🄸🅂🄸🅃🄸🄽🄶！🫠 </h1>
 
-My![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitors！
+                    
+*VISITOR:* ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
 
 - 🔭 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙤𝙣 𝙬𝙝𝙪.
-- 🌱 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅.
-- 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘！
-# 
+-  🌱 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅.
+-  💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘！
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naraku-Mo&layout=compact)](https://github.com/Christmas/github-readme-stats)
-
+&emsp;&emsp; 
 <!--START_SECTION:colourise-->
 <p align=center>
 <img src="https://img.shields.io/badge/-C++-80953D?style=for-the-badge&logo=c%2b%2b"/>
@@ -20,6 +20,8 @@ My![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visito
 <img src="https://img.shields.io/badge/-HTML5-523D95?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
 <!--END_SECTION:colourise-->
+<p align=center>
+<img src="https://raw.githubusercontent.com/Naraku-Mo/Naraku-Mo/main/snake.svg"/>
 
 <!--
 **Naraku-Mo/Naraku-Mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

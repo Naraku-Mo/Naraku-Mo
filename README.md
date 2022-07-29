@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
 <!--END_SECTION:colourise-->
 <p align=center>
-<img src="https://raw.githubusercontent.com/Naraku-Mo/Naraku-Mo/main/snake.svg"/>
+
 
 <!--
 **Naraku-Mo/Naraku-Mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

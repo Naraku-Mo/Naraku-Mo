@@ -5,7 +5,8 @@
   <samp>
     <br>🔭 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙤𝙣 𝙬𝙝𝙪.
       <br>🌱 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅.
-    <br>💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘！<br><br>
+    <br>💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘！<br>
+    <br><a href="https://quick.horsejoy.site">🏠<i>https://quick.horsejoy.site<i></a><br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"/>
   </samp>
 </p>
